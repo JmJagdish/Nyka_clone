@@ -1,0 +1,111 @@
+[
+    {
+        "status": "BESTSELLER",
+        "rating": 4.6,
+        "reviev": 1986,
+        "Varity": 2,
+        "price": "₹3,600",
+        "image": "https://images-static.nykaa.com/uploads/b2df2716-c39d-40a7-b2a5-76c728a2590b.jpg?tr=w-240,cm-pad_resize",
+        "TagLine": "Clinique Take The Day Off Cleansing Balm (Makeup Remover)",
+        "id": 1
+    },
+    {
+        "status": "BESTSELLER",
+        "rating": 4.6,
+        "reviev": 1986,
+        "Varity": 2,
+        "price": "₹3,600",
+        "image": "https://images-static.nykaa.com/uploads/b2df2716-c39d-40a7-b2a5-76c728a2590b.jpg?tr=w-240,cm-pad_resize",
+        "TagLine": "Clinique Take The Day Off Cleansing Balm (Makeup Remover)",
+        "id": 2
+    },
+    {
+        "status": "BESTSELLER",
+        "rating": 4.6,
+        "reviev": 1986,
+        "Varity": 2,
+        "price": "₹3,600",
+        "image": "https://images-static.nykaa.com/uploads/b2df2716-c39d-40a7-b2a5-76c728a2590b.jpg?tr=w-240,cm-pad_resize",
+        "TagLine": "Clinique Take The Day Off Cleansing Balm (Makeup Remover)",
+        "id": 3
+    },
+    {
+        "status": "BESTSELLER",
+        "rating": 4.6,
+        "reviev": 1986,
+        "Varity": 2,
+        "price": "₹3,600",
+        "image": "https://images-static.nykaa.com/uploads/b2df2716-c39d-40a7-b2a5-76c728a2590b.jpg?tr=w-240,cm-pad_resize",
+        "TagLine": "Clinique Take The Day Off Cleansing Balm (Makeup Remover)",
+        "id": 4
+    },
+    {
+        "status": "BESTSELLER",
+        "rating": 4.6,
+        "reviev": 1986,
+        "Varity": 2,
+        "price": "₹3,600",
+        "image": "https://images-static.nykaa.com/uploads/b2df2716-c39d-40a7-b2a5-76c728a2590b.jpg?tr=w-240,cm-pad_resize",
+        "TagLine": "Clinique Take The Day Off Cleansing Balm (Makeup Remover)",
+        "id": 5
+    },
+    {
+        "status": "BESTSELLER",
+        "rating": 4.6,
+        "reviev": 1986,
+        "Varity": 2,
+        "price": "₹3,600",
+        "image": "https://images-static.nykaa.com/uploads/b2df2716-c39d-40a7-b2a5-76c728a2590b.jpg?tr=w-240,cm-pad_resize",
+        "TagLine": "Clinique Take The Day Off Cleansing Balm (Makeup Remover)",
+        "id": 6
+    },
+    {
+        "status": "BESTSELLER",
+        "rating": 4.6,
+        "reviev": 1986,
+        "Varity": 2,
+        "price": "₹3,600",
+        "image": "https://images-static.nykaa.com/uploads/b2df2716-c39d-40a7-b2a5-76c728a2590b.jpg?tr=w-240,cm-pad_resize",
+        "TagLine": "Clinique Take The Day Off Cleansing Balm (Makeup Remover)",
+        "id": 7
+    },
+    {
+        "status": "BESTSELLER",
+        "rating": 4.6,
+        "reviev": 1986,
+        "Varity": 2,
+        "price": "₹3,600",
+        "image": "https://images-static.nykaa.com/uploads/b2df2716-c39d-40a7-b2a5-76c728a2590b.jpg?tr=w-240,cm-pad_resize",
+        "TagLine": "Clinique Take The Day Off Cleansing Balm (Makeup Remover)",
+        "id": 8
+    },
+    {
+        "status": "BESTSELLER",
+        "rating": 4.6,
+        "reviev": 1986,
+        "Varity": 2,
+        "price": "₹3,600",
+        "image": "https://images-static.nykaa.com/uploads/b2df2716-c39d-40a7-b2a5-76c728a2590b.jpg?tr=w-240,cm-pad_resize",
+        "TagLine": "Clinique Take The Day Off Cleansing Balm (Makeup Remover)",
+        "id": 9
+    }, {
+        "status": "BESTSELLER",
+        "rating": 4.8,
+        "reviev": 1986,
+        "Varity": 2,
+        "price": "₹3,600",
+        "image": "https://images-static.nykaa.com/uploads/b2df2716-c39d-40a7-b2a5-76c728a2590b.jpg?tr=w-240,cm-pad_resize",
+        "TagLine": "Clinique Take The Day Off Cleansing Balm (Makeup Remover)",
+        "id": 10
+
+    }, {
+        "status": "BESTSELLER",
+        "rating": 4,
+        "reviev": 1986,
+        "Varity": 2,
+        "price": "₹3,600",
+        "image": "https://images-static.nykaa.com/uploads/b2df2716-c39d-40a7-b2a5-76c728a2590b.jpg?tr=w-240,cm-pad_resize",
+        "TagLine": "Clinique Take The Day Off Cleansing Balm (Makeup Remover)",
+        "id": 11
+    }
+]

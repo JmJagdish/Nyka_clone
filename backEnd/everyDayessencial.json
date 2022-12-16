@@ -1,0 +1,35 @@
+[
+    {
+        "id":1,
+        "image":"https://images-static.nykaa.com/uploads/8f8b55d5-0bfc-4545-ba05-df0177672474.jpg?tr=w-240,cm-pad_resize",
+        "productType":"Moisturisers"
+    },{
+        "id":2,
+        "image":"https://images-static.nykaa.com/uploads/8f8b55d5-0bfc-4545-ba05-df0177672474.jpg?tr=w-240,cm-pad_resize",
+        "productType":"Moisturisers"
+    },{
+        "id":3,
+        "image":"https://images-static.nykaa.com/uploads/8f8b55d5-0bfc-4545-ba05-df0177672474.jpg?tr=w-240,cm-pad_resize",
+        "productType":"Moisturisers"
+    },{
+        "id":4,
+        "image":"https://images-static.nykaa.com/uploads/8f8b55d5-0bfc-4545-ba05-df0177672474.jpg?tr=w-240,cm-pad_resize",
+        "productType":"Moisturisers"
+    },{
+        "id":5,
+        "image":"https://images-static.nykaa.com/uploads/8f8b55d5-0bfc-4545-ba05-df0177672474.jpg?tr=w-240,cm-pad_resize",
+        "productType":"Moisturisers"
+    },{
+        "id":6,
+        "image":"https://images-static.nykaa.com/uploads/8f8b55d5-0bfc-4545-ba05-df0177672474.jpg?tr=w-240,cm-pad_resize",
+        "productType":"Moisturisers"
+    },{
+        "id":7,
+        "image":"https://images-static.nykaa.com/uploads/8f8b55d5-0bfc-4545-ba05-df0177672474.jpg?tr=w-240,cm-pad_resize",
+        "productType":"Moisturisers"
+    },{
+        "id":8,
+        "image":"https://images-static.nykaa.com/uploads/8f8b55d5-0bfc-4545-ba05-df0177672474.jpg?tr=w-240,cm-pad_resize",
+        "productType":"Moisturisers"
+    }
+]

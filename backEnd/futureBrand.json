@@ -1,0 +1,49 @@
+[
+   {
+        "id":1,
+        "image":"https://images-static.nykaa.com/uploads/bb963e33-8eb4-4da3-ad3b-a845301ebb3b.jpg?tr=w-240,cm-pad_resize",
+        "heading":"Up To 40% Off",
+        "para":"On Bestsellers"
+    },{
+        "id":2,
+        "image":"https://images-static.nykaa.com/uploads/bb963e33-8eb4-4da3-ad3b-a845301ebb3b.jpg?tr=w-240,cm-pad_resize",
+        "heading":"Up To 40% Off",
+        "para":"On Bestsellers"
+    },{
+        "id":3,
+        "image":"https://images-static.nykaa.com/uploads/bb963e33-8eb4-4da3-ad3b-a845301ebb3b.jpg?tr=w-240,cm-pad_resize",
+        "heading":"Up To 40% Off",
+        "para":"On Bestsellers"
+    },{
+        "id":4,
+        "image":"https://images-static.nykaa.com/uploads/bb963e33-8eb4-4da3-ad3b-a845301ebb3b.jpg?tr=w-240,cm-pad_resize",
+        "heading":"Up To 40% Off",
+        "para":"On Bestsellers"
+    },{
+        "id":6,
+        "image":"https://images-static.nykaa.com/uploads/bb963e33-8eb4-4da3-ad3b-a845301ebb3b.jpg?tr=w-240,cm-pad_resize",
+        "heading":"Up To 40% Off",
+        "para":"On Bestsellers"
+    },{
+        "id":7,
+        "image":"https://images-static.nykaa.com/uploads/bb963e33-8eb4-4da3-ad3b-a845301ebb3b.jpg?tr=w-240,cm-pad_resize",
+        "heading":"Up To 40% Off",
+        "para":"On Bestsellers"
+    },{
+        "id":8,
+        "image":"https://images-static.nykaa.com/uploads/bb963e33-8eb4-4da3-ad3b-a845301ebb3b.jpg?tr=w-240,cm-pad_resize",
+        "heading":"Up To 40% Off",
+        "para":"On Bestsellers"
+    },{
+        "id":9,
+        "image":"https://images-static.nykaa.com/uploads/bb963e33-8eb4-4da3-ad3b-a845301ebb3b.jpg?tr=w-240,cm-pad_resize",
+        "heading":"Up To 40% Off",
+        "para":"On Bestsellers"
+    },{
+        "id":10,
+        "image":"https://images-static.nykaa.com/uploads/bb963e33-8eb4-4da3-ad3b-a845301ebb3b.jpg?tr=w-240,cm-pad_resize",
+        "heading":"Up To 40% Off",
+        "para":"On Bestsellers"
+    }
+   
+]
