@@ -1,5 +1,11 @@
 let data = JSON.parse(localStorage.getItem("Cart")) || []
 
+
+let grandTotalP=new Array(data.length);
+
+let ifrem=document.getElementById("PaymentG1");
+
+
 display(data)
 
 
@@ -47,19 +53,27 @@ function display(data) {
         incrementBTN.addEventListener("click", () => {
             QuantityValue++;
             quentity.innerText = QuantityValue;
-
+            grandTotalP[index]=(element.price * QuantityValue);
             totalprice.innerText = "Total :" + (element.price * QuantityValue)
-
+            console.log(grandTotalP)
+            ifrem.contentDocument.location.reload(true);
+            localStorage.setItem("grandTotalP",JSON.stringify(grandTotalP))
         });
 
         decrementBTN.addEventListener("click", () => {
             if (QuantityValue != 0) {
                 QuantityValue--;
                 quentity.innerText = QuantityValue;
+                grandTotalP[index]=(element.price * QuantityValue);
 
+                
+
+                ifrem.contentDocument.location.reload(true);
                 totalprice.innerText = "Total :" + (element.price * QuantityValue)
-            }
 
+                localStorage.setItem("grandTotalP",JSON.stringify(grandTotalP))
+            }
+           
         });
 
 
@@ -76,6 +90,7 @@ function display(data) {
 
         CartProduct.append(card)
 
+        
        
 
     });
