@@ -70,16 +70,25 @@
                 <input type="text" placeholder="&#128269; Search On My Nykaa">
                 <div class="accountSec">
                     
-                    <a href="signin.html">
-                        <button>Sign in</button>
-                       
-                            <!-- //login hoover -->
+                    <button class="open-button" onclick="openForm()">Sign in</button>
+                    <header class="form-popup" id="myForm">
+                        <form class="form-container">
+                          <h1>Login</h1>
+                      
+                          <label for="email"><b>Email</b></label>
+                          <input type="text" placeholder="Enter Email" name="email" required>
+                      
+                          <label for="psw"><b>Password</b></label>
+                          <input type="password" placeholder="Enter Password" name="psw" required>
+                      
+                          <button type="submit" class="btn">Login</button>
+                          <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+                        </form>
+                    </header>
+                   
+                      
 
-                            
-
-
-                        
-                    </a>
+                    
                 </div>
                 <a href=""><span class="material-symbols-outlined">shopping_bag</span></a>
             </div>
@@ -200,7 +209,7 @@
 
 <div class="best_seller">
 
-    <div id="bestSeller">
+    <div id="bestSeller" class="carousel">
         
     </div>
 </div>
@@ -389,7 +398,14 @@
 
 
 
+
+
+
+
 </body>
+
+
+
 
 <script src="script/index.js"></script>
 

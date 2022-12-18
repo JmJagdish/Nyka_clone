@@ -257,10 +257,25 @@ bestsellerArr.forEach((element) => {
 
     let textDiv=document.createElement("div");
 
-    textDiv.append(name, qty, ratings, price)
+    let ancClass=document.createElement("a");
+    ancClass.setAttribute("class","carousel-item")
+
+    textDiv.append(ancClass,name, qty, ratings, price)
     card.append(image,textDiv );
 
 
     bestSeller.append(card);
 
 })
+
+
+
+
+//popup signin
+function openForm() {
+    document.getElementById("myForm").style.display = "block";
+  }
+  
+  function closeForm() {
+    document.getElementById("myForm").style.display = "none";
+  }

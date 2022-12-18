@@ -588,14 +588,17 @@ margin: 20px auto;
 
 
 #bestSeller{
-display: grid;
-gap: 20px;
-grid-template-columns: repeat(6,1fr);
+display: flex;
+/* display: grid; */
+/* gap: 20px;
+grid-template-columns: repeat(6,1fr); */
 
 }
 
 
 #bestSeller>div{
+    width: 30%;
+    margin: auto;
     margin-left: 10px;
     margin-right: 10px;
     border-radius: 10px;
@@ -617,4 +620,49 @@ grid-template-columns: repeat(6,1fr);
 
 /* -------------------------------------- */
 /* signup */
+.form-popup {
+    display: none;
+    position:fixed;
+    bottom: 0;
+    right: 15px;
+    border: 3px solid #f1f1f1;
+    z-index: 1000009;
+    border-radius: 12px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(190, 70, 39, 0.22) 0px 15px 12px;
+  }
 
+  .form-container {
+    max-width: 300px;
+    padding: 10px;
+    background-color: white;
+  }
+  .form-container input[type=text], .form-container input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+  }
+  .form-container input[type=text]:focus, .form-container input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  .form-container .btn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    margin-bottom:10px;
+    opacity: 0.8;
+    border-radius: 30px;
+}
+  
+  .form-container .btn:hover, .open-button:hover {
+    opacity: 1;
+  }
+  .form-container .cancel {
+    background-color: red;
+    border-radius: 30px;
+  }

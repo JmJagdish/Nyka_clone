@@ -160,6 +160,10 @@ function displayData(data) {
         button.addEventListener("click",()=>{
             console.log("btn")
             //add to cart function;
+            addToCart(ele);
+
+
+
         })
 
       card.append(image,text1,text2,button)
@@ -172,6 +176,32 @@ function displayData(data) {
 
 
 
+let cartData=JSON.parse(localStorage.getItem("Cart"))||[];
+
+function addToCart(ele)
+   {
+    let allreadyInTheCart=false;
+
+    for(let i=0;i<cartData.length;i++){
+        if(cartData[i].id==ele.id){
+            allreadyInTheCart=true;
+            break;
+        }
+        
+    }
+    if(allreadyInTheCart){
+            alert("Product All Ready in the Cart");
+            console.log(ele)
+        }else{
+            alert("Product Added In The Cart");
+            cartData.push(ele);
+            console.log(ele)
+        }
+
+    localStorage.setItem("Cart",JSON.stringify(cartData));
+
+
+}
 
 
 
