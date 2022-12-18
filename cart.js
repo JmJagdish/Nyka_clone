@@ -63,7 +63,7 @@ function display(data) {
         decrementBTN.addEventListener("click", () => {
             if (QuantityValue != 0) {
                 QuantityValue--;
-                quentity.innerText = QuantityValue;
+                quentity.innerText = "Quantity :"+QuantityValue;
                 grandTotalP[index]=(element.price * QuantityValue);
 
                 

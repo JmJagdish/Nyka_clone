@@ -451,6 +451,10 @@ width: 100%;
 grid-column-start: 2;
 grid-column-end:6 ;
 
+   
+    gap: 20px;
+    align-items: start;
+
     /* width: 80%;
     margin: auto; */
     display: grid;
@@ -466,6 +470,7 @@ grid-column-end:6 ;
 #CartProduct>div{
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     border-radius: 10px;
+    margin: 10px;
 }
 #CartProduct>div>div{
     text-align: center;
