@@ -19,13 +19,13 @@ setInterval(() => {
 
 // ################################banner slide##################
 
-var slideIndex = 0;
+let slideIndex = 0;
 showSlides();
 
 function showSlides() {
 
-    var slides = document.getElementsByClassName("mySlides");
-    var dots = document.getElementsByClassName("dot");
+    let slides = document.getElementsByClassName("mySlides");
+    let dots = document.getElementsByClassName("dot");
     for (let i = 0; i < slides.length; i++) {
         slides[i].style.display = "none";
     }
@@ -271,11 +271,122 @@ bestsellerArr.forEach((element) => {
 
 
 
-//popup signin
+//popup signin and login
 function openForm() {
     document.getElementById("myForm").style.display = "block";
+   
   }
+
+
+  function openForml() { document.getElementById("loginForm").style.display = "block";
+  document.getElementById("myForm").style.display = "none";
+
+}
   
   function closeForm() {
     document.getElementById("myForm").style.display = "none";
+    
   }
+
+  function closeForml() {document.getElementById("loginForm").style.display = "none";}
+  
+  //sign up
+
+
+  let signup= JSON.parse(localStorage.getItem("signupdetails")) || [];
+
+
+  document.querySelector("#form1").addEventListener("submit", Submission)
+
+  function Submission(event){
+      
+      event.preventDefault();
+
+  let email = document.querySelector("#signEmail").value;
+  
+  let passw=document.querySelector("#signpass").value;
+    let SignName=document.getElementById("SignName").value;
+      let obj= {
+          user: SignName,
+          email:email,
+            pass:passw
+      }
+
+     
+  
+      if(obj.email==signup.email){
+        alert("You are already an User please login")
+        openForml();
+
+      }else{
+
+
+
+
+
+      if(email.indexOf("@")==-1)
+      {
+          alert("Enter Valid email Id")
+         
+      }
+      else{
+          alert("Your Account Created Successfully,Login Now");
+          window.location.href= "product.html"
+          localStorage.setItem("signupdetails", JSON.stringify(obj))
+
+      }
+
+      // signup.push(obj)
+
+
+     
+  }
+
+
+}
+
+//sign up success
+
+ document.querySelector("#form2").addEventListener("submit", Submissionl);
+ let login= JSON.parse(localStorage.getItem("signupdetails")) || [];
+function Submissionl(event){
+   
+
+  
+    event.preventDefault();
+
+    let email = document.querySelector("#logemail").value;
+    
+    let passw=document.querySelector("#logPass").value;
+     
+  
+       
+    
+        if(String(email)==login.email){
+
+            if(String(passw)==login.pass){
+                alert("Login Successfull");
+            
+
+
+                window.location.href= "product.html"
+
+            }
+
+        
+            
+  
+        }else{
+            alert("Worng email or password");
+
+        }
+  
+
+
+
+
+
+}
+//log in Function
+
+

@@ -206,3 +206,18 @@ function addToCart(ele)
 
 
 
+
+
+let  userData= JSON.parse(localStorage.getItem("signupdetails")) || null
+
+  if(userData)
+  {
+      let showUserName= document.querySelector(".accountSec")
+      showUserName.innerHTML="<p>"+"&#8486;"+userData.user+"</p>";
+
+      showUserName.style.fontSize="14px";
+      showUserName.style.color="red";
+      
+
+  }
+  
