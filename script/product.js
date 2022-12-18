@@ -191,11 +191,11 @@ function addToCart(ele)
     }
     if(allreadyInTheCart){
             alert("Product All Ready in the Cart");
-            console.log(ele)
+            // console.log(ele)
         }else{
             alert("Product Added In The Cart");
             cartData.push(ele);
-            console.log(ele)
+            // console.log(ele)
         }
 
     localStorage.setItem("Cart",JSON.stringify(cartData));
