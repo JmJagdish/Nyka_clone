@@ -48,11 +48,11 @@ function display(data) {
 
         let QuantityValue = 0;
         quentity.innerText = QuantityValue;
-
+        quentity.innerText = "Quantity :"+QuantityValue;
 
         incrementBTN.addEventListener("click", () => {
             QuantityValue++;
-            quentity.innerText = QuantityValue;
+            quentity.innerText = "Quantity :"+QuantityValue;
             grandTotalP[index]=(element.price * QuantityValue);
             totalprice.innerText = "Total :" + (element.price * QuantityValue)
             console.log(grandTotalP)
@@ -66,7 +66,7 @@ function display(data) {
                 quentity.innerText = "Quantity :"+QuantityValue;
                 grandTotalP[index]=(element.price * QuantityValue);
 
-                
+                quentity.innerText = "Quantity :"+QuantityValue;
 
                 ifrem.contentDocument.location.reload(true);
                 totalprice.innerText = "Total :" + (element.price * QuantityValue)
@@ -77,6 +77,7 @@ function display(data) {
         });
 
 
+        
 
 
 
