@@ -145,7 +145,7 @@
 
 
         .userDetails {
-            width: 30%;
+            width: 100%;
             
             background-color: rgb(8, 60, 95);
             position: absolute;
@@ -154,7 +154,8 @@
             transform: translate(-60%, -50%);
             display: flex;
             flex-direction: column;
-            margin: 60px auto;
+            margin-top: 60px;
+            margin-left: 35px;
         }
 
         .userDetails input {
@@ -199,6 +200,8 @@
             <input type="text" placeholder="Enter Your Address">
             <label for="phoneNo">Phone.No</label>
             <input type="number" placeholder="Enter Your Mobile No">
+
+            <label for="Totalamount">Total Amount :Rs. <span id="totAmunt"></span></label>
             <div class="center">
                 <button id="PaymentPage" >Payment Via Upi</button>
             </div>
@@ -266,8 +269,10 @@
     }
 
 
+    FinalAmount=JSON.parse(localStorage.getItem("FinalAmount"));
 
-
+let totAmunt=document.getElementById("totAmunt");
+totAmunt.innerText=FinalAmount;
 </script>
 
 </html>
