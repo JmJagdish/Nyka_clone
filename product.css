@@ -191,7 +191,7 @@ width: 50px;
     margin: auto 10px;
     padding: 10px;
     border-radius:5px;
-    border:1px solid #838688;
+    /* border:1px solid #838688; */
     color: #5C6873;
 }
 .accountSec > a{
@@ -293,7 +293,7 @@ color: rgb(255, 255, 255);
 .ft1Section button{
     text-transform: uppercase;
     background-color: transparent;
-    border: 1px solid rgb(255, 255, 255);
+    /* border: 1px solid rgb(255, 255, 255); */
     padding: 6px 12px;
     border-radius: 2px;
     color: rgb(255, 255, 255);
@@ -537,7 +537,7 @@ width: 100%;
     display: grid;
     gap:30px;
     grid-template-columns:repeat(4,1fr);
-    border: 1px solid red;
+    /* border: 1px solid red; */
 
 }
 
@@ -582,7 +582,7 @@ margin: auto;
 grid-column-start: 2;
 /* grid-row-start: 1; */
 grid-column-end: 5;
-border: 1px solid rgb(43, 179, 16);
+/* border: 1px solid rgb(43, 179, 16); */
 }
 #allproduct>div{
     margin: 20px auto;
