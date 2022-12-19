@@ -1,0 +1,251 @@
+[
+    {
+        "Luxe": [
+            {
+                "id": 1,
+                "image": "https://images-static.nykaa.com/uploads/78c539f1-c06c-4c1c-8bce-534f0b1a0ced.jpg?tr=w-240,cm-pad_resize",
+                "heading": "Exclusive Offers",
+                "para": "On Bestsellers"
+            },
+            {
+                "id": 2,
+                "image": "https://images-static.nykaa.com/uploads/78c539f1-c06c-4c1c-8bce-534f0b1a0ced.jpg?tr=w-240,cm-pad_resize",
+                "heading": "Exclusive Offers",
+                "para": "On Bestsellers"
+            },
+            {
+                "id": 3,
+                "image": "https://images-static.nykaa.com/uploads/78c539f1-c06c-4c1c-8bce-534f0b1a0ced.jpg?tr=w-240,cm-pad_resize",
+                "heading": "Exclusive Offers",
+                "para": "On Bestsellers"
+            },
+            {
+                "id": 4,
+                "image": "https://images-static.nykaa.com/uploads/78c539f1-c06c-4c1c-8bce-534f0b1a0ced.jpg?tr=w-240,cm-pad_resize",
+                "heading": "Exclusive Offers",
+                "para": "On Bestsellers"
+            },
+            {
+                "id": 5,
+                "image": "https://images-static.nykaa.com/uploads/78c539f1-c06c-4c1c-8bce-534f0b1a0ced.jpg?tr=w-240,cm-pad_resize",
+                "heading": "Exclusive Offers",
+                "para": "On Bestsellers"
+            },
+            {
+                "id": 6,
+                "image": "https://images-static.nykaa.com/uploads/78c539f1-c06c-4c1c-8bce-534f0b1a0ced.jpg?tr=w-240,cm-pad_resize",
+                "heading": "Exclusive Offers",
+                "para": "On Bestsellers"
+            },
+            {
+                "id": 7,
+                "image": "https://images-static.nykaa.com/uploads/78c539f1-c06c-4c1c-8bce-534f0b1a0ced.jpg?tr=w-240,cm-pad_resize",
+                "heading": "Exclusive Offers",
+                "para": "On Bestsellers"
+            },
+            {
+                "id": 8,
+                "image": "https://images-static.nykaa.com/uploads/78c539f1-c06c-4c1c-8bce-534f0b1a0ced.jpg?tr=w-240,cm-pad_resize",
+                "heading": "Exclusive Offers",
+                "para": "On Bestsellers"
+            }
+        ],
+       "Makeup": [
+            
+                {
+                    "id": 1,
+                    "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+                    "heading": "Up To 30% Off",
+                    "para": "On Entire Range"
+                },
+                {
+                    "id": 2,
+                    "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+                    "heading": "Up To 30% Off",
+                    "para": "On Entire Range"
+                },
+                {
+                    "id": 3,
+                    "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+                    "heading": "Up To 30% Off",
+                    "para": "On Entire Range"
+                },
+                {
+                    "id": 4,
+                    "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+                    "heading": "Up To 30% Off",
+                    "para": "On Entire Range"
+                },
+                {
+                    "id": 5,
+                    "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+                    "heading": "Up To 30% Off",
+                    "para": "On Entire Range"
+                },
+                {
+                    "id": 6,
+                    "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+                    "heading": "Up To 30% Off",
+                    "para": "On Entire Range"
+                },{
+                    "id": 7,
+                    "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+                    "heading": "Up To 30% Off",
+                    "para": "On Entire Range"
+                },{
+                    "id": 8,
+                    "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+                    "heading": "Up To 30% Off",
+                    "para": "On Entire Range"
+                }
+            
+        ],"Skin": [
+            
+            {
+                "id": 1,
+                "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+                "heading": "Up To 30% Off",
+                "para": "On Entire Range"
+            },
+            {
+                "id": 2,
+                "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+                "heading": "Up To 30% Off",
+                "para": "On Entire Range"
+            },
+            {
+                "id": 3,
+                "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+                "heading": "Up To 30% Off",
+                "para": "On Entire Range"
+            },
+            {
+                "id": 4,
+                "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+                "heading": "Up To 30% Off",
+                "para": "On Entire Range"
+            },
+            {
+                "id": 5,
+                "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+                "heading": "Up To 30% Off",
+                "para": "On Entire Range"
+            },
+            {
+                "id": 6,
+                "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+                "heading": "Up To 30% Off",
+                "para": "On Entire Range"
+            },{
+                "id": 7,
+                "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+                "heading": "Up To 30% Off",
+                "para": "On Entire Range"
+            },{
+                "id": 8,
+                "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+                "heading": "Up To 30% Off",
+                "para": "On Entire Range"
+            }
+        
+    ],"MoreInBeauty": [
+            
+        {
+            "id": 1,
+            "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+            "heading": "Up To 30% Off",
+            "para": "On Entire Range"
+        },
+        {
+            "id": 2,
+            "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+            "heading": "Up To 30% Off",
+            "para": "On Entire Range"
+        },
+        {
+            "id": 3,
+            "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+            "heading": "Up To 30% Off",
+            "para": "On Entire Range"
+        },
+        {
+            "id": 4,
+            "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+            "heading": "Up To 30% Off",
+            "para": "On Entire Range"
+        },
+        {
+            "id": 5,
+            "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+            "heading": "Up To 30% Off",
+            "para": "On Entire Range"
+        },
+        {
+            "id": 6,
+            "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+            "heading": "Up To 30% Off",
+            "para": "On Entire Range"
+        },{
+            "id": 7,
+            "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+            "heading": "Up To 30% Off",
+            "para": "On Entire Range"
+        },{
+            "id": 8,
+            "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+            "heading": "Up To 30% Off",
+            "para": "On Entire Range"
+        }
+    
+],"GlobalFaves": [
+            
+    {
+        "id": 1,
+        "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+        "heading": "Up To 30% Off",
+        "para": "On Entire Range"
+    },
+    {
+        "id": 2,
+        "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+        "heading": "Up To 30% Off",
+        "para": "On Entire Range"
+    },
+    {
+        "id": 3,
+        "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+        "heading": "Up To 30% Off",
+        "para": "On Entire Range"
+    },
+    {
+        "id": 4,
+        "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+        "heading": "Up To 30% Off",
+        "para": "On Entire Range"
+    },
+    {
+        "id": 5,
+        "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+        "heading": "Up To 30% Off",
+        "para": "On Entire Range"
+    },
+    {
+        "id": 6,
+        "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+        "heading": "Up To 30% Off",
+        "para": "On Entire Range"
+    },{
+        "id": 7,
+        "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+        "heading": "Up To 30% Off",
+        "para": "On Entire Range"
+    },{
+        "id": 8,
+        "image": "https://images-static.nykaa.com/uploads/5e2197ef-8b05-4db6-8b5c-f92e3bd4b867.jpg?tr=w-240,cm-pad_resize",
+        "heading": "Up To 30% Off",
+        "para": "On Entire Range"
+    }
+
+]
+    }
+]

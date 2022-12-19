@@ -1,0 +1,74 @@
+[
+    {
+        "InfluencerPicks": [
+            {
+                "id": 1,
+                "image": "https://images-static.nykaa.com/uploads/af1b92dd-5e91-48c4-9fa0-d2ea24298d2a.jpg?tr=w-300,cm-pad_resize",
+                "name": "Aashi Adani''s",
+                "expartIn": "Wedding Glam Picks"
+            },
+            {
+                "id": 2,
+                "image": "https://images-static.nykaa.com/uploads/af1b92dd-5e91-48c4-9fa0-d2ea24298d2a.jpg?tr=w-300,cm-pad_resize",
+                "name": "Aashi Adani''s",
+                "expartIn": "Wedding Glam Picks"
+            },
+            {
+                "id": 3,
+                "image": "https://images-static.nykaa.com/uploads/af1b92dd-5e91-48c4-9fa0-d2ea24298d2a.jpg?tr=w-300,cm-pad_resize",
+                "name": "Aashi Adani''s",
+                "expartIn": "Wedding Glam Picks"
+            },
+            {
+                "id": 4,
+                "image": "https://images-static.nykaa.com/uploads/af1b92dd-5e91-48c4-9fa0-d2ea24298d2a.jpg?tr=w-300,cm-pad_resize",
+                "name": "Aashi Adani''s",
+                "expartIn": "Wedding Glam Picks"
+            },
+            {
+                "id": 5,
+                "image": "https://images-static.nykaa.com/uploads/af1b92dd-5e91-48c4-9fa0-d2ea24298d2a.jpg?tr=w-300,cm-pad_resize",
+                "name": "Aashi Adani''s",
+                "expartIn": "Wedding Glam Picks"
+            },
+            {
+                "id": 6,
+                "image": "https://images-static.nykaa.com/uploads/af1b92dd-5e91-48c4-9fa0-d2ea24298d2a.jpg?tr=w-300,cm-pad_resize",
+                "name": "Aashi Adani''s",
+                "expartIn": "Wedding Glam Picks"
+            }
+        ],
+        "BuyingGuides": [
+            {
+                "id": 1,
+                "image": "https://images-static.nykaa.com/uploads/0b03a496-aaef-4f43-9b69-5bfcea063f63.jpg?tr=w-400,cm-pad_resize",
+                "Event": "Gifts For The Holiday Season"
+            },
+            {
+                "id": 2,
+                "image": "https://images-static.nykaa.com/uploads/0b03a496-aaef-4f43-9b69-5bfcea063f63.jpg?tr=w-400,cm-pad_resize",
+                "Event": "Gifts For The Holiday Season"
+            },
+            {
+                "id": 3,
+                "image": "https://images-static.nykaa.com/uploads/0b03a496-aaef-4f43-9b69-5bfcea063f63.jpg?tr=w-400,cm-pad_resize",
+                "Event": "Gifts For The Holiday Season"
+            },
+            {
+                "id": 4,
+                "image": "https://images-static.nykaa.com/uploads/0b03a496-aaef-4f43-9b69-5bfcea063f63.jpg?tr=w-400,cm-pad_resize",
+                "Event": "Gifts For The Holiday Season"
+            },
+            {
+                "id": 5,
+                "image": "https://images-static.nykaa.com/uploads/0b03a496-aaef-4f43-9b69-5bfcea063f63.jpg?tr=w-400,cm-pad_resize",
+                "Event": "Gifts For The Holiday Season"
+            },
+            {
+                "id": 6,
+                "image": "https://images-static.nykaa.com/uploads/0b03a496-aaef-4f43-9b69-5bfcea063f63.jpg?tr=w-400,cm-pad_resize",
+                "Event": "Gifts For The Holiday Season"
+            }
+        ]
+    }
+]
